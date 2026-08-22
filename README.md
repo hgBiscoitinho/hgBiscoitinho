@@ -21,70 +21,62 @@ Tenho interesse em **desenvolvimento de software**, gosto de aprender novas tecn
 
 ## 🛠️ Tecnologias
 
+## 🛠️ Tecnologias
+
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"><br>
-      <sub><b>JavaScript</b></sub>
-    </td>
-
-    <td align="center" width="100">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"><br>
-      <sub><b>Java</b></sub>
+      <b>Java</b>
     </td>
-
-    <td align="center" width="100">
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"><br>
+      <b>JavaScript</b>
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"><br>
-      <sub><b>PHP</b></sub>
+      <b>PHP</b>
     </td>
-
-    <td align="center" width="100">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"><br>
-      <sub><b>HTML5</b></sub>
+      <b>HTML5</b>
     </td>
-
-    <td align="center" width="100">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"><br>
-      <sub><b>CSS3</b></sub>
+      <b>CSS3</b>
     </td>
-
-    <td align="center" width="100">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50"><br>
-      <sub><b>Angular</b></sub>
+      <b>Angular</b>
     </td>
-
-    <td align="center" width="100">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="50"><br>
-      <sub><b>Ionic</b></sub>
+      <b>Ionic</b>
     </td>
-
-    <td align="center" width="100">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"><br>
-      <sub><b>MySQL</b></sub>
+      <b>MySQL</b>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="100">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"><br>
-      <sub><b>Git</b></sub>
+      <b>Git</b>
     </td>
-
-    <td align="center" width="100">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="50"><br>
-      <sub><b>XAMPP</b></sub>
+      <b>XAMPP</b>
     </td>
-
-    <td align="center" width="100">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50"><br>
-      <sub><b>Android</b></sub>
+      <b>Android</b>
     </td>
-
-    <td align="center" width="100"></td>
-    <td align="center" width="100"></td>
-    <td align="center" width="100"></td>
-    <td align="center" width="100"></td>
-    <td align="center" width="100"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
