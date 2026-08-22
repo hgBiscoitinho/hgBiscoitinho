@@ -102,8 +102,6 @@ Gosto de aprender novas tecnologias e transformar o conhecimento adquirido nos e
 
 ### 🎮 Jogo 2D — GameMaker
 
-Projeto pessoal de desenvolvimento de um jogo 2D com visão lateral.
-
 **Tecnologias:**
 
 * GameMaker
@@ -111,22 +109,15 @@ Projeto pessoal de desenvolvimento de um jogo 2D com visão lateral.
 * Pixel Art
 * Aseprite
 
-**O que estou desenvolvendo:**
-
-* 🏃 Movimentação do personagem
-* 🏃‍♂️ Corrida
-* 🦘 Sistema de pulo
-* 👻 Inimigos
-* 🧱 Cenários e plataformas
-* 🎨 Animações em Pixel Art
-
-> 🚧 Projeto em desenvolvimento.
+> 🚧 Projetando um jogo 2D
+> movimentação do personagemcorrida
+> Sistema de pulo
+> Cenários e Plataformas
+> Animações em Pixel art
 
 ---
 
 ### 💻 Projetos acadêmicos
-
-Projetos desenvolvidos durante minha formação em **Análise e Desenvolvimento de Sistemas**, envolvendo programação, desenvolvimento web e banco de dados.
 
 > 🚧 Em breve adicionarei os projetos e seus respectivos repositórios.
 
@@ -151,16 +142,7 @@ Projetos desenvolvidos durante minha formação em **Análise e Desenvolvimento 
    ├── 🌐 Desenvolvimento Web
    ├── 🗄️ Banco de Dados
    └── 🎮 Desenvolvimento de Jogos
-          │
-          ▼
-     🚀 Projetos pessoais
-          │
-          ▼
-     💼 Primeiro estágio
-          │
-          ▼
-     👨‍💻 Desenvolvedor
-```
+  
 
 ---
 
