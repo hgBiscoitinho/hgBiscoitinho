@@ -2,21 +2,23 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 💻 Desenvolvedor em formação
-🚀 Em busca de oportunidades para aprender, desenvolver projetos e crescer na área de Tecnologia da Informação.
+🚀 Buscando oportunidades para aprender, desenvolver projetos e crescer profissionalmente na área de Tecnologia da Informação.
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento web e banco de dados.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha experiência através de projetos acadêmicos e pessoais.
 
-Tenho interesse em **desenvolvimento de software**, gosto de aprender novas tecnologias e estou buscando transformar os conhecimentos adquiridos na faculdade em projetos práticos.
+Tenho interesse em **desenvolvimento de software, desenvolvimento web, banco de dados e desenvolvimento de jogos**.
 
- **Objetivo:** conquistar uma oportunidade de estágio em TI e continuar evoluindo profissionalmente.
+Gosto de aprender novas tecnologias e transformar o conhecimento adquirido nos estudos em projetos práticos.
+
+🎯 **Objetivo:** conquistar uma oportunidade de estágio em TI e continuar evoluindo como desenvolvedor.
 
 ---
 
-##Tecnologias
+## 🛠️ Tecnologias
 
 <table>
   <tr>
@@ -74,12 +76,11 @@ Tenho interesse em **desenvolvimento de software**, gosto de aprender novas tecn
     <td align="center">
       <img src="https://cdn.simpleicons.org/aseprite" width="50"><br>
       <b>Aseprite</b>
-      <td align="center">
-    <img src="https://cdn.simpleicons.org/gamemaker" width="50"><br>
-    <b>GameMaker</b>
-  </td>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/gamemaker" width="50"><br>
+      <b>GameMaker</b>
+    </td>
     <td></td>
     <td></td>
   </tr>
@@ -87,27 +88,79 @@ Tenho interesse em **desenvolvimento de software**, gosto de aprender novas tecn
 
 ---
 
-##  Atualmente estudando
+## 📚 Atualmente estudando
 
-*  Java
-*  JavaScript
-*  Desenvolvimento Web
-
+* ☕ Java
+* 🟨 JavaScript
+* 🌐 Desenvolvimento Web
+* 🗄️ Banco de Dados
+* 🎮 Desenvolvimento de Jogos
 
 ---
- Projetos
 
+## 🚀 Projetos
 
-> Em breve adicionarei mais projetos acadêmicos e pessoais ao meu portfólio.
+### 🎮 Jogo 2D — GameMaker
+
+Projeto pessoal de desenvolvimento de um jogo 2D com visão lateral.
+
+**Tecnologias:**
+
+* GameMaker
+* GML
+* Pixel Art
+* Aseprite
+
+**O que estou desenvolvendo:**
+
+* 🏃 Movimentação do personagem
+* 🏃‍♂️ Corrida
+* 🦘 Sistema de pulo
+* 👻 Inimigos
+* 🧱 Cenários e plataformas
+* 🎨 Animações em Pixel Art
+
+> 🚧 Projeto em desenvolvimento.
+
+---
+
+### 💻 Projetos acadêmicos
+
+Projetos desenvolvidos durante minha formação em **Análise e Desenvolvimento de Sistemas**, envolvendo programação, desenvolvimento web e banco de dados.
+
+> 🚧 Em breve adicionarei os projetos e seus respectivos repositórios.
 
 ---
 
 ## 📊 GitHub
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hgBiscoitinho&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgBiscoitinho&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
+---
+
+## 📈 Minha jornada
+
+```text
+🎓 ADS
+   │
+   ├── ☕ Java
+   ├── 🟨 JavaScript
+   ├── 🌐 Desenvolvimento Web
+   ├── 🗄️ Banco de Dados
+   └── 🎮 Desenvolvimento de Jogos
+          │
+          ▼
+     🚀 Projetos pessoais
+          │
+          ▼
+     💼 Primeiro estágio
+          │
+          ▼
+     👨‍💻 Desenvolvedor
+```
 
 ---
 
