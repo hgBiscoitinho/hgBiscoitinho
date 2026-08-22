@@ -74,6 +74,10 @@ Tenho interesse em **desenvolvimento de software**, gosto de aprender novas tecn
     <td align="center">
       <img src="https://cdn.simpleicons.org/aseprite" width="50"><br>
       <b>Aseprite</b>
+      <td align="center">
+    <img src="https://cdn.simpleicons.org/gamemaker" width="50"><br>
+    <b>GameMaker</b>
+  </td>
     </td>
     <td></td>
     <td></td>
