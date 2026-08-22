@@ -18,41 +18,43 @@ Tenho interesse em **desenvolvimento de software**, gosto de aprender novas tecn
 
 ##Tecnologias
 
-
-## 🛠️ Tecnologias
-
-## 🛠️ Tecnologias
-
 <table>
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"><br>
       <b>Java</b>
     </td>
+
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"><br>
       <b>JavaScript</b>
     </td>
+
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"><br>
       <b>PHP</b>
     </td>
+
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"><br>
       <b>HTML5</b>
     </td>
+
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"><br>
       <b>CSS3</b>
     </td>
+
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50"><br>
       <b>Angular</b>
     </td>
+
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="50"><br>
       <b>Ionic</b>
     </td>
+
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"><br>
       <b>MySQL</b>
@@ -64,16 +66,27 @@ Tenho interesse em **desenvolvimento de software**, gosto de aprender novas tecn
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"><br>
       <b>Git</b>
     </td>
+
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="50"><br>
+      <img src="https://cdn.simpleicons.org/xampp" width="50"><br>
       <b>XAMPP</b>
     </td>
+
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50"><br>
       <b>Android</b>
     </td>
-    <td></td>
-    <td></td>
+
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"><br>
+      <b>Firebase</b>
+    </td>
+
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/aseprite" width="50"><br>
+      <b>Aseprite</b>
+    </td>
+
     <td></td>
     <td></td>
     <td></td>
