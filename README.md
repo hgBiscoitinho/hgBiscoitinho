@@ -8,11 +8,9 @@
 
 ##  Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha experiência através de projetos acadêmicos e pessoais.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha experiência por meio de projetos acadêmicos, pessoais e estudos. **Tenho interesse em desenvolvimento de software, desenvolvimento web, banco de dados e desenvolvimento de jogos,** buscando sempre aprender novas tecnologias e aprimorar minhas habilidades.
 
-Tenho interesse em **desenvolvimento de software, desenvolvimento web, banco de dados e desenvolvimento de jogos**.
-
-Gosto de aprender novas tecnologias e transformar o conhecimento adquirido nos estudos em projetos práticos.
+Gosto de transformar os conhecimentos adquiridos nos estudos em projetos práticos, buscando evoluir constantemente e enfrentar novos desafios. Também procuro, sempre que possível, compartilhar conhecimentos e ajudar outras pessoas em sua jornada de aprendizado na área de Tecnologia da Informação.
 
  **Objetivo:** conquistar uma oportunidade de estágio em TI e continuar evoluindo como desenvolvedor.
 
