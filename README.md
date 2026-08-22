@@ -149,8 +149,7 @@ Gosto de aprender novas tecnologias e transformar o conhecimento adquirido nos e
    ├──  Desenvolvimento Web
    ├──  Banco de Dados
    └──  Desenvolvimento de Jogos
-  
-
+  ```
 ---
 
 ##  Entre em contato
