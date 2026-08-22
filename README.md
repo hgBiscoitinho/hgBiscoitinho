@@ -1,12 +1,12 @@
 # 👋 Olá! Eu sou Ramon Lima
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-💻 Desenvolvedor em formação
-🚀 Buscando oportunidades para aprender, desenvolver projetos e crescer profissionalmente na área de Tecnologia da Informação.
+ Estudante de **Análise e Desenvolvimento de Sistemas**
+ Desenvolvedor em formação
+ Buscando oportunidades para aprender, desenvolver projetos e crescer profissionalmente na área de Tecnologia da Informação.
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha experiência através de projetos acadêmicos e pessoais.
 
@@ -14,11 +14,11 @@ Tenho interesse em **desenvolvimento de software, desenvolvimento web, banco de 
 
 Gosto de aprender novas tecnologias e transformar o conhecimento adquirido nos estudos em projetos práticos.
 
-🎯 **Objetivo:** conquistar uma oportunidade de estágio em TI e continuar evoluindo como desenvolvedor.
+ **Objetivo:** conquistar uma oportunidade de estágio em TI e continuar evoluindo como desenvolvedor.
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <table>
   <tr>
@@ -88,65 +88,72 @@ Gosto de aprender novas tecnologias e transformar o conhecimento adquirido nos e
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
-* ☕ Java
-* 🟨 JavaScript
-* 🌐 Desenvolvimento Web
-* 🗄️ Banco de Dados
-* 🎮 Desenvolvimento de Jogos
+*  Java
+*  JavaScript
+* Desenvolvimento Web
+*  Banco de Dados
+* Desenvolvimento de Jogos
 
 ---
 
-## 🚀 Projetos
+##  Projetos
 
-### 🎮 Jogo 2D — GameMaker
+###  Jogo 2D — GameMaker
 
 **Tecnologias:**
 
-* GameMaker
-* GML
-* Pixel Art
-* Aseprite
+-  GameMaker
+-  GML
+-  Pixel Art
+-  Aseprite
 
-> 🚧 Projetando um jogo 2D
-> movimentação do personagemcorrida
-> Sistema de pulo
-> Cenários e Plataformas
-> Animações em Pixel art
+**Atualmente desenvolvendo:**
+
+-  Movimentação do personagem
+-  Corrida
+-  Sistema de pulo
+-  Inimigos
+-  Cenários e plataformas
+-  Animações em Pixel Art
+
+>  Projeto em desenvolvimento.
 
 ---
 
-### 💻 Projetos acadêmicos
+###  Projetos acadêmicos
 
-> 🚧 Em breve adicionarei os projetos e seus respectivos repositórios.
+>  Em breve adicionarei os projetos e seus respectivos repositórios.
 
 ---
 
-## 📊 GitHub
+
+##  GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hgBiscoitinho&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgBiscoitinho&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hgBiscoitinho&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hgBiscoitinho&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 📈 Minha jornada
+## Minha jornada
 
 ```text
 🎓 ADS
    │
-   ├── ☕ Java
-   ├── 🟨 JavaScript
-   ├── 🌐 Desenvolvimento Web
-   ├── 🗄️ Banco de Dados
-   └── 🎮 Desenvolvimento de Jogos
+   ├──  Java
+   ├──  JavaScript
+   ├──  Desenvolvimento Web
+   ├──  Banco de Dados
+   └──  Desenvolvimento de Jogos
   
 
 ---
 
-## 📫 Entre em contato
+##  Entre em contato
 
 <p align="left">
   <a href="mailto:ramon.lima2007@gmail.com">
@@ -156,4 +163,4 @@ Gosto de aprender novas tecnologias e transformar o conhecimento adquirido nos e
 
 ---
 
-⭐ **Sempre aprendendo, construindo e evoluindo.**
+ **Sempre aprendendo, construindo e evoluindo.**
