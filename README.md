@@ -6,44 +6,96 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento web e banco de dados.
 
 Tenho interesse em **desenvolvimento de software**, gosto de aprender novas tecnologias e estou buscando transformar os conhecimentos adquiridos na faculdade em projetos práticos.
 
-🎯 **Objetivo:** conquistar uma oportunidade de estágio em TI e continuar evoluindo profissionalmente.
+ **Objetivo:** conquistar uma oportunidade de estágio em TI e continuar evoluindo profissionalmente.
 
 ---
+
+##Tecnologias
+
 
 ## 🛠️ Tecnologias
 
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"><br>
+      <sub><b>JavaScript</b></sub>
+    </td>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" height="100" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="45" height="45" alt="Ionic"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="100" height="100" alt="XAMPP"/>
-</p>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"><br>
+      <sub><b>Java</b></sub>
+    </td>
+
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"><br>
+      <sub><b>PHP</b></sub>
+    </td>
+
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"><br>
+      <sub><b>HTML5</b></sub>
+    </td>
+
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"><br>
+      <sub><b>CSS3</b></sub>
+    </td>
+
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50"><br>
+      <sub><b>Angular</b></sub>
+    </td>
+
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="50"><br>
+      <sub><b>Ionic</b></sub>
+    </td>
+
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"><br>
+      <sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"><br>
+      <sub><b>Git</b></sub>
+    </td>
+
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="50"><br>
+      <sub><b>XAMPP</b></sub>
+    </td>
+
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50"><br>
+      <sub><b>Android</b></sub>
+    </td>
+
+    <td align="center" width="100"></td>
+    <td align="center" width="100"></td>
+    <td align="center" width="100"></td>
+    <td align="center" width="100"></td>
+    <td align="center" width="100"></td>
+  </tr>
+</table>
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
-* ☕ Java
-* 🟨 JavaScript
-* 🐘 PHP
-* 🌐 Desenvolvimento Web
-* 🗄️ Banco de Dados
-* ⚡ Angular
-* 📱 Ionic
+*  Java
+*  JavaScript
+*  Desenvolvimento Web
+
 
 ---
  Projetos
